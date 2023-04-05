@@ -8,4 +8,5 @@ Every individual entity is a different thread with many capabilities amongst the
 * replenishing resources
 * reproducing which result in a creation of a new thread
 
-Code is synchronized on the critcal sections as to avoid possible deadlocks between threads
+Code is synchronized on the critcal sections as to avoid possible deadlocks between threads.\
+There is a working GUI that allows visualization of the simulation as well as some interaction with it.
