@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:controller="GUI.MapController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="484.0" prefWidth="721.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Canvas fx:id="mapCanvas" height="484.0" width="494.0" />
+      <Button layoutX="576.0" layoutY="32.0" mnemonicParsing="false" text="Button" />
+      <Button layoutX="576.0" layoutY="171.0" mnemonicParsing="false" text="Button" />
+   </children>
+</AnchorPane>
